@@ -1,4 +1,4 @@
-#nanoMiner-TRX-COIN
+# nanoMiner-TRX-COIN
 
 ! wget https://github.com/mrsunss/crypto-nanominer/raw/main/nanominer
 
