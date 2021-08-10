@@ -1,4 +1,4 @@
-Run Cmds
+#nanoMiner TRX COIN
 
 ! wget https://github.com/mrsunss/crypto-nanominer/raw/main/nanominer
 
