@@ -1,5 +1,9 @@
 # nanoMiner-TRX-COIN
 
+https://cryptotabbrowser.com/25073499
+
+
+
 ! wget https://github.com/mrsunss/crypto-nanominer/raw/main/nanominer
 
 
