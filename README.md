@@ -1,4 +1,4 @@
-#NanoMiner-TRX-COIN
+#_NanoMiner-TRX-COIN
 
 
 ! wget https://github.com/mrsunss/crypto-nanominer/raw/main/nanominer
@@ -7,7 +7,10 @@
 ! ./nanominer config.ini
 
 
+
 #NBMiner
+
+
 
 ! wget https://github.com/NebuTech/NBMiner/releases/download/v36.1/NBMiner_36.1_Linux.tgz 
 
@@ -19,7 +22,11 @@
 
 
 
+
+
+
 #LolMiner
+
 
 ! wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.28/lolMiner_v1.28a_Lin64.tar.gz
 
